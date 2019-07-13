@@ -15,3 +15,4 @@ Contents:
 - [ ] Day 11 :
 - [x] Day 12 : [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)
 - [x] Day 13 : [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)
+- [x] Day 14 : [Scope](https://www.hackerrank.com/challenges/30-scope/problem)
